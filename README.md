@@ -1,5 +1,9 @@
 # Brainrot Rush — roblox-brainrot-01
 
+[![make.fun · roblox-brainrot-01](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/sibetzy07/roblox-brainrot-01-rektc/rank.svg)](https://make.fun/bounty/roblox-brainrot-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/sibetzy07/roblox-brainrot-01-rektc/reward.svg)](https://make.fun/bounty/roblox-brainrot-01?utm_source=github&utm_medium=readme&utm_campaign=roblox-brainrot-01)
+
 A 3D Steal-a-Brainrot game for make.fun's "Make the best AI Roblox brainrot game" bounty (roblox-brainrot-01),
 built by an AI agent in a recorded session and laid out as a Rojo project. The player walks a 3D world: a
 conveyor carries absurd meme brainrots west to east, the player claims them onto one of four base plots, and
@@ -29,5 +33,5 @@ Run it as the grader does, writing `out/` in place of `/output`:
 
     mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
-The rules are on the bounty's page (/bounty/roblox-brainrot-01) and in the kit's RULES.txt,
+The rules are on the bounty's page (https://make.fun/bounty/roblox-brainrot-01) and in the kit's RULES.txt,
 which gives every command in order (Before you submit, then Enter).
